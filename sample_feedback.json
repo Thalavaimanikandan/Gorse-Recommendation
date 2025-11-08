@@ -1,0 +1,7 @@
+[
+  { "user_id": 101, "item_id": 1, "action": "like", "timestamp": "2025-11-07T12:00:00" },
+  { "user_id": 102, "item_id": 2, "action": "dislike", "timestamp": "2025-11-07T12:05:00" },
+  { "user_id": 103, "item_id": 3, "action": "watch", "timestamp": "2025-11-07T12:10:00" },
+  { "user_id": 104, "item_id": 4, "action": "like", "timestamp": "2025-11-07T12:15:00" },
+  { "user_id": 105, "item_id": 5, "action": "share", "timestamp": "2025-11-07T12:20:00" }
+]
